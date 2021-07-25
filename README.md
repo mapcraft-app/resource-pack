@@ -1,6 +1,6 @@
 ![logo](https://gitlab.com/cbertran/mapcraft-resourcepack/-/raw/main/icon.png "Logo")
 
-## Mapcraft-resourcepacks is the resource pack that gives mapcraft-datapack more functionality
+## Mapcraft-resourcepack is the resource pack that gives mapcraft-datapack more functionality
 
 ## Setup
 ### <span>&#x26a0;</span> If you wish to have access to all the possibilities offered by Mapcraft, download [the application](https://gitlab.com/cbertran)
