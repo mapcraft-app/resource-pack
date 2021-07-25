@@ -1,0 +1,63 @@
+{
+	"MC.title" : "MapCraft",
+	
+	"MC.tool.cursor" : "Deslizador",
+	"MC.tool.cursor.paintbrush" : "Cepillo",
+	"MC.tool.cutscene" : "Cinemática",
+
+	"MC.gui.home" : "\u06e9 Home",
+
+	"MC.gui.option" : "Opción :",
+	"MC.gui.option.cursor" : "\u1405 Deslizador :",
+	"MC.gui.option.cursor.5" : "[5]",
+	"MC.gui.option.cursor.10" : "[10]",
+	"MC.gui.option.cursor.15" : "[15]",
+	"MC.gui.option.cursor.on_surface" : "[Superficie]",
+	"MC.gui.option.fill" : "\u1405 Llenar :",
+	"MC.gui.option.fill.everything" : "[Todo]",
+	"MC.gui.option.fill.just_air" : "[Aire]",
+	"MC.gui.option.fill.just_block" : "[Los bloques]",
+	
+	"MC.gui.selection" : "\u25a3 Selección",
+	"MC.gui.selection.Start" : "\u2611",
+	"MC.gui.selection.fill" : "\u25a2 Rellenar",
+	"MC.gui.selection.replace" : "\u25a3 Sustituir",
+	"MC.gui.selection.shape" : "\u06de Forma",
+	"MC.gui.selection.copy" : "\u25e9 Copy",
+	"MC.gui.selection.copy.Copy" : "[Copiar]",
+	"MC.gui.selection.copy.Paste" : "[Pegar]",
+	"MC.gui.selection.copy.Cut" : "[Cortar]",
+	"MC.gui.selection.copy.Rotation" : "Girar:",
+	"MC.gui.selection.copy.+90" : "[+90°]",
+	"MC.gui.selection.copy.-90" : "[-90°]",
+	"MC.gui.selection.delete_entity" : "\u2620 Borrar entidad",
+	"MC.gui.selection.option.shape" : "\u1405 Forma :",
+	"MC.gui.selection.option.shape.Curb" : "[Borde]",
+	"MC.gui.selection.option.shape.Wall" : "[Muro]",
+	"MC.gui.selection.option.Wire" : "[De mallas]",
+	
+	"MC.gui.paintbrush" : "\u270e Dibujo",
+	"MC.gui.paintbrush.brush" : "\u270e Cepillo :",
+	"MC.gui.paintbrush.brush.sphere" : "[\u25cf Esfera]",
+	"MC.gui.paintbrush.brush.cube" : "[\u25a0 Cubo]",
+	"MC.gui.paintbrush.brush.diamond" : "[\u25c6 Diamante]",
+	"MC.gui.paintbrush.width" : "\u22a1 Anchura :",
+	"MC.gui.paintbrush.width.1" : "\u2776",
+	"MC.gui.paintbrush.width.2" : "\u2777",
+	"MC.gui.paintbrush.width.3" : "\u2778",
+	"MC.gui.paintbrush.width.4" : "\u2779",
+	"MC.gui.paintbrush.width.5" : "\u277a",
+
+	"MC.gui.trigger" : "\u2b1a Zona",
+	"MC.gui.trigger.create": "\u2b1a Crear un nuevo campo",
+
+	"MC.gui.cutscene" : "\u2b21 Cinemática",
+	"MC.gui.cutscene.create" : "\u2712 Nuevo  Cinemática",
+	"MC.gui.cutscene.point.add": "\u2b22 Añadir un punto",
+	"MC.gui.cutscene.point.add.button": "[Añadir]",
+	"MC.gui.cutscene.point.remove": "\u2b21 Norrar un punto",
+	"MC.gui.cutscene.point.remove.button": "[Norrar]",
+	
+	"MC.command.trigger" : "/mapcraft trigger %s",
+	"MC.command.cutscene" : "/mapcraft cutscene %s"
+}

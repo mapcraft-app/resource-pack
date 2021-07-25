@@ -1,0 +1,63 @@
+{
+	"MC.title" : "MapCraft",
+	
+	"MC.tool.cursor" : "Schieber",
+	"MC.tool.cursor.paintbrush" : "Malen",
+	"MC.tool.cutscene" : "Kinematik",
+
+	"MC.gui.home" : "\u06e9 Home",
+
+	"MC.gui.option" : "Optionen :",
+	"MC.gui.option.cursor" : "\u1405 Schieber :",
+	"MC.gui.option.cursor.5" : "[5]",
+	"MC.gui.option.cursor.10" : "[10]",
+	"MC.gui.option.cursor.15" : "[15]",
+	"MC.gui.option.cursor.on_surface" : "[Auf Oberfläche]",
+	"MC.gui.option.fill" : "\u1405 Füllen :",
+	"MC.gui.option.fill.everything" : "[Alles]",
+	"MC.gui.option.fill.just_air" : "[Nur Luft]",
+	"MC.gui.option.fill.just_block" : "[Nur Block]",
+	
+	"MC.gui.selection" : "\u25a3 Auswahl",
+	"MC.gui.selection.Start" : "\u2611",
+	"MC.gui.selection.fill" : "\u25a2 Füllen Sie",
+	"MC.gui.selection.replace" : "\u25a3 Ersetzen",
+	"MC.gui.selection.shape" : "\u06de Form",
+	"MC.gui.selection.copy" : "\u25e9 Kopieren",
+	"MC.gui.selection.copy.Copy" : "[Kopieren]",
+	"MC.gui.selection.copy.Paste" : "[Einfügen]",
+	"MC.gui.selection.copy.Cut" : "[Ausschneiden]",
+	"MC.gui.selection.copy.Rotation" : "Drehen:",
+	"MC.gui.selection.copy.+90" : "[+90°]",
+	"MC.gui.selection.copy.-90" : "[-90°]",
+	"MC.gui.selection.delete_entity" : "\u2620 Objekt löschen",
+	"MC.gui.selection.option.shape" : "\u1405 Gestalten :",
+	"MC.gui.selection.option.shape.Curb" : "[Randstein]",
+	"MC.gui.selection.option.shape.Wall" : "[Wand]",
+	"MC.gui.selection.option.Wire" : "[Eisendraht]",
+	
+	"MC.gui.paintbrush" : "\u270e Bleistift",
+	"MC.gui.paintbrush.brush" : "\u270e Pinsel :",
+	"MC.gui.paintbrush.brush.sphere" : "[\u25cf Kugel]",
+	"MC.gui.paintbrush.brush.cube" : "[\u25a0 Würfel]",
+	"MC.gui.paintbrush.brush.diamond" : "[\u25c6 Diamant]",
+	"MC.gui.paintbrush.width" : "\u22a1 Breite :",
+	"MC.gui.paintbrush.width.1" : "\u2776",
+	"MC.gui.paintbrush.width.2" : "\u2777",
+	"MC.gui.paintbrush.width.3" : "\u2778",
+	"MC.gui.paintbrush.width.4" : "\u2779",
+	"MC.gui.paintbrush.width.5" : "\u277a",
+
+	"MC.gui.trigger" : "\u2b1a Bereich",
+	"MC.gui.trigger.create": "\u2b1a Neuen bereich erstellen",
+
+	"MC.gui.cutscene" : "\u2b21 Kinematik",
+	"MC.gui.cutscene.create" : "\u2712 Neuen kinematik",
+	"MC.gui.cutscene.point.add": "\u2b22 Punkt hinzufügen",
+	"MC.gui.cutscene.point.add.button": "[Hinzufügen]",
+	"MC.gui.cutscene.point.remove": "\u2b21 Punkt entfernen",
+	"MC.gui.cutscene.point.remove.button": "[Entfernen]",
+	
+	"MC.command.trigger" : "/mapcraft trigger %s",
+	"MC.command.cutscene" : "/mapcraft cutscene %s"
+}

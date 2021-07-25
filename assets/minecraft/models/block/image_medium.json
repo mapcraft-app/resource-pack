@@ -1,0 +1,21 @@
+{
+    "textures": {
+        "texture": "#image"
+    },
+    "elements": [ 
+        {
+            "from": [ -8, -8, 8 ],
+            "to": [ 24, 24, 8 ],
+            "faces": {
+                "north":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ],
+    "display": {
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, -33, 0 ],
+            "scale": [ 4, 4, 4 ]
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+	"MC.title" : "MapCraft",
+	
+	"MC.tool.cursor" : "Cursor",
+	"MC.tool.cursor.paintbrush" : "Painting",
+	"MC.tool.cutscene" : "Cutscene",
+
+	"MC.gui.home" : "\u06e9 Home",
+
+	"MC.gui.option" : "Option :",
+	"MC.gui.option.cursor" : "\u1405 Cursor :",
+	"MC.gui.option.cursor.5" : "[5]",
+	"MC.gui.option.cursor.10" : "[10]",
+	"MC.gui.option.cursor.15" : "[15]",
+	"MC.gui.option.cursor.on_surface" : "[On surface]",
+	"MC.gui.option.fill" : "\u1405 Fill :",
+	"MC.gui.option.fill.everything" : "[Everything]",
+	"MC.gui.option.fill.just_air" : "[Just air]",
+	"MC.gui.option.fill.just_block" : "[Just block]",
+	
+	"MC.gui.selection" : "\u25a3 Selection",
+	"MC.gui.selection.Start" : "\u2611",
+	"MC.gui.selection.fill" : "\u25a2 Fill",
+	"MC.gui.selection.replace" : "\u25a3 Replace",
+	"MC.gui.selection.shape" : "\u06de Shape",
+	"MC.gui.selection.copy" : "\u25e9 Copy",
+	"MC.gui.selection.copy.Copy" : "[Copy]",
+	"MC.gui.selection.copy.Paste" : "[Paste]",
+	"MC.gui.selection.copy.Cut" : "[Cut]",
+	"MC.gui.selection.copy.Rotation" : "Rotation:",
+	"MC.gui.selection.copy.+90" : "[+90°]",
+	"MC.gui.selection.copy.-90" : "[-90°]",
+	"MC.gui.selection.delete_entity" : "\u2620 Delete entity",
+	"MC.gui.selection.option.shape" : "\u1405 Shape :",
+	"MC.gui.selection.option.shape.Curb" : "[Curb]",
+	"MC.gui.selection.option.shape.Wall" : "[Wall]",
+	"MC.gui.selection.option.Wire" : "[Wire]",
+	
+	"MC.gui.paintbrush" : "\u270e Pencil",
+	"MC.gui.paintbrush.brush" : "\u270e Brush :",
+	"MC.gui.paintbrush.brush.sphere" : "[\u25cf Sphere]",
+	"MC.gui.paintbrush.brush.cube" : "[\u25a0 Cube]",
+	"MC.gui.paintbrush.brush.diamond" : "[\u25c6 Diamond]",
+	"MC.gui.paintbrush.width" : "\u22a1 Width :",
+	"MC.gui.paintbrush.width.1" : "\u2776",
+	"MC.gui.paintbrush.width.2" : "\u2777",
+	"MC.gui.paintbrush.width.3" : "\u2778",
+	"MC.gui.paintbrush.width.4" : "\u2779",
+	"MC.gui.paintbrush.width.5" : "\u277a",
+
+	"MC.gui.trigger" : "\u2b1a Trigger",
+	"MC.gui.trigger.create": "\u2b1a Create new trigger",
+
+	"MC.gui.cutscene" : "\u2b21 Cutscene",
+	"MC.gui.cutscene.create" : "\u2712 New cutscene",
+	"MC.gui.cutscene.point.add": "\u2b22 Add point",
+	"MC.gui.cutscene.point.add.button": "[Add]",
+	"MC.gui.cutscene.point.remove": "\u2b21 Remove point",
+	"MC.gui.cutscene.point.remove.button": "[Remove]",
+	
+	"MC.command.trigger" : "/mapcraft trigger %s",
+	"MC.command.cutscene" : "/mapcraft cutscene %s"
+}

@@ -1,0 +1,63 @@
+{
+	"MC.title" : "MapCraft",
+	
+	"MC.tool.cursor" : "Curseur",
+	"MC.tool.cursor.paintbrush" : "Pinceau",
+	"MC.tool.cutscene" : "Cinématique",
+
+	"MC.gui.home" : "\u06e9 Home",
+
+	"MC.gui.option" : "Option :",
+	"MC.gui.option.cursor" : "\u1405 Curseur :",
+	"MC.gui.option.cursor.5" : "[5]",
+	"MC.gui.option.cursor.10" : "[10]",
+	"MC.gui.option.cursor.15" : "[15]",
+	"MC.gui.option.cursor.on_surface" : "[En surface]",
+	"MC.gui.option.fill" : "\u1405 Remplir :",
+	"MC.gui.option.fill.everything" : "[Tout]",
+	"MC.gui.option.fill.just_air" : "[L'air]",
+	"MC.gui.option.fill.just_block" : "[Les blocks]",
+	
+	"MC.gui.selection" : "\u25a3 Sélection",
+	"MC.gui.selection.Start" : "\u2611",
+	"MC.gui.selection.fill" : "\u25a2 Remplir",
+	"MC.gui.selection.replace" : "\u25a3 Remplacer",
+	"MC.gui.selection.shape" : "\u06de Forme",
+	"MC.gui.selection.copy" : "\u25e9 Copier",
+	"MC.gui.selection.copy.Copy" : "[Copier]",
+	"MC.gui.selection.copy.Paste" : "[Coller]",
+	"MC.gui.selection.copy.Cut" : "[Couper]",
+	"MC.gui.selection.copy.Rotation" : "Rotation:",
+	"MC.gui.selection.copy.+90" : "[+90°]",
+	"MC.gui.selection.copy.-90" : "[-90°]",
+	"MC.gui.selection.delete_entity" : "\u2620 Supprimer l'entité",
+	"MC.gui.selection.option.shape" : "\u1405 Forme :",
+	"MC.gui.selection.option.shape.Curb" : "[Bordure]",
+	"MC.gui.selection.option.shape.Wall" : "[Mur]",
+	"MC.gui.selection.option.Wire" : "[Fil de fer]",
+	
+	"MC.gui.paintbrush" : "\u270e Dessin",
+	"MC.gui.paintbrush.brush" : "\u270e Brosse :",
+	"MC.gui.paintbrush.brush.sphere" : "[\u25cf Sphère]",
+	"MC.gui.paintbrush.brush.cube" : "[\u25a0 Cube]",
+	"MC.gui.paintbrush.brush.diamond" : "[\u25c6 Diamant]",
+	"MC.gui.paintbrush.width" : "\u22a1 Largeur :",
+	"MC.gui.paintbrush.width.1" : "\u2776",
+	"MC.gui.paintbrush.width.2" : "\u2777",
+	"MC.gui.paintbrush.width.3" : "\u2778",
+	"MC.gui.paintbrush.width.4" : "\u2779",
+	"MC.gui.paintbrush.width.5" : "\u277a",
+
+	"MC.gui.trigger" : " \u2b1a Zone",
+	"MC.gui.trigger.create": "\u2b1a Créer une nouvelle zone",
+
+	"MC.gui.cutscene" : "\u2b21 Cinématique",
+	"MC.gui.cutscene.create" : "\u2712 Nouvelle cinématique",
+	"MC.gui.cutscene.point.add": "\u2b22 Ajouter un point",
+	"MC.gui.cutscene.point.add.button": "[Ajouter]",
+	"MC.gui.cutscene.point.remove": "\u2b21 Supprimer un point",
+	"MC.gui.cutscene.point.remove.button": "[Supprimer]",
+	
+	"MC.command.trigger" : "/mapcraft trigger %s",
+	"MC.command.cutscene" : "/mapcraft cutscene %s"
+}
