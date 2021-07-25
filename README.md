@@ -3,7 +3,7 @@
 ## Mapcraft-resourcepack is the resource pack that gives mapcraft-datapack more functionality
 
 ## Setup
-### <span>&#x26a0;</span> If you wish to have access to all the possibilities offered by Mapcraft, download [the application](https://gitlab.com/cbertran)
+### <span>&#x26a0;</span> If you wish to have access to all the possibilities offered by Mapcraft, download [the application](https://gitlab.com/cbertran/mapcraft)
 
 Nevertheless you can use it as is, but you will only have access to the *editing* and *drawing* tools.
 1. Download the latest stable version of Mapcraft base data pack [here](https://gitlab.com/cbertran/mapcraft-datapack/-/releases), and install it in the ``datapacks`` folder of your world.
