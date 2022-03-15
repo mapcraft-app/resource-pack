@@ -47,6 +47,11 @@
 	"MC.gui.paintbrush.width.3" : "\u2778",
 	"MC.gui.paintbrush.width.4" : "\u2779",
 	"MC.gui.paintbrush.width.5" : "\u277a",
+	"MC.gui.paintbrush.width.6" : "\u277b",
+	"MC.gui.paintbrush.width.7" : "\u277c",
+	"MC.gui.paintbrush.width.8" : "\u277d",
+	"MC.gui.paintbrush.width.9" : "\u277e",
+	"MC.gui.paintbrush.width.10" : "\u277f",
 
 	"MC.gui.trigger" : " \u2b1a Zone",
 	"MC.gui.trigger.create": "\u2b1a Créer une nouvelle zone",
