@@ -1,6 +1,6 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/cutscene"
-    }
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/cutscene"
+	}
 }

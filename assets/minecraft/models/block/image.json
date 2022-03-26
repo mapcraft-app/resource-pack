@@ -1,21 +1,21 @@
 {
-    "textures": {
-        "texture": "#image"
-    },
-    "elements": [ 
-        {
-            "from": [ 0, 0, 8 ],
-            "to": [ 16, 16, 8 ],
-            "faces": {
-                "north":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
-            }
-        }
-    ],
-    "display": {
-        "head": {
-            "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, -33, 0 ],
-            "scale": [ 4, 4, 4 ]
-        }
-    }
+	"textures": {
+		"texture": "#image"
+	},
+	"elements": [ 
+		{
+			"from": [ 0, 0, 8 ],
+			"to": [ 16, 16, 8 ],
+			"faces": {
+				"north":  { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, -33, 0 ],
+			"scale": [ 4, 4, 4 ]
+		}
+	}
 }
