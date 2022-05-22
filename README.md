@@ -1,6 +1,7 @@
-![logo](https://github.com/mapcraft-app/resource-pack/blob/main/icon.png "Logo")
-
-## Mapcraft-resourcepack is the resource pack that gives mapcraft-datapack more functionality
+<h1 align="center">
+    <img height="250" src="pack.png" alt=""><br/>
+    Mapcraft resource-pack is the official resource pack of Mapcraft
+</h1>
 
 ## Setup
 ### <span>&#x26a0;</span> If you wish to have access to all the possibilities offered by Mapcraft, download [the application](https://github.com/mapcraft-app/mapcraft)
