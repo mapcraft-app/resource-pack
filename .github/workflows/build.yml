@@ -18,11 +18,11 @@ jobs:
           sudo apt update
           sudo apt install -y zip jq
           zip -r resourcepack.zip icon.png LICENSE pack.mcmeta pack.png README.md assets
-          jq .mapcraft pack.mcmeta > .release
+          jq .mapcraft pack.mcmeta > release
       - name: Release
         uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
              resourcepack.zip
-             .release
+             release
