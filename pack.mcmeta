@@ -1,6 +1,10 @@
 {
+	"mapcraft": {
+		"version": "0.5.0-alpha",
+		"minecraft": "1.19"
+	},
 	"pack": {
-		"pack_format": 8,
+		"pack_format": 12,
 		"description": "Official Mapcraft resource pack"
 	}
 }
