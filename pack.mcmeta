@@ -1,7 +1,7 @@
 {
 	"mapcraft": {
-		"version": "0.5.1-alpha",
-		"minecraft": "1.19"
+		"version": "0.6.0-alpha",
+		"minecraft": "1.19.3"
 	},
 	"pack": {
 		"pack_format": 12,
