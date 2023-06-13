@@ -1,10 +1,10 @@
 {
 	"mapcraft": {
-		"version": "1.0.0-beta",
+		"version": "1.0.1-beta",
 		"minecraft": [ "1.20", "1.20.1" ]
 	},
 	"pack": {
 		"pack_format": 15,
-		"description": "Official Mapcraft resource pack"
+		"description": "Official Mapcraft Resource pack - version 1.20 / 1.20.1"
 	}
 }
